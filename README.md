@@ -1,5 +1,5 @@
 ### Hi! 👋 I'm Rizki.
-I'm a Power Platform Developer at Toyota Tsusho Systems Indonesia, with a strong interest in Power Platform 365, Web Development, Cloud Computing, Machine Learning and Data Science. I am skilled in problem-solving, effective communication, and collaboration, and can convey technical concepts to both technical and non-technical audiences.
+I'm a Power Platform Developer at Toyota Tsusho Systems Indonesia, with a strong interest in Power Platform, Web Development, Cloud Computing, Machine Learning and Data Science. I am skilled in problem-solving, effective communication, and collaboration, and can convey technical concepts to both technical and non-technical audiences.
 
 ### Tech Stack
   <a href="https://www.microsoft365.com/"><img align="left" alt="SharePoint" title="SharePoint" width="25px" src="https://th.bing.com/th/id/R.01ce848b2a72a090da6b9212bfc1d13d?rik=EQ4neeYVsfgwFA&riu=http%3a%2f%2fwww.trainitmidlands.co.uk%2fwp-content%2fuploads%2f2020%2f02%2fmicrosoft-sharepoint-logo.png&ehk=ndSU0pSnjzyOKzgz7hInxTFPSARD%2bvGpRXmT0rnNkus%3d&risl=&pid=ImgRaw&r=0" /></a>
